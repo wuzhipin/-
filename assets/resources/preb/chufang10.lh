@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "txmy8qu8",
+  "_$type": "Image",
+  "name": "chufang10",
+  "x": 540,
+  "y": 350,
+  "width": 500,
+  "height": 500,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://4578ed90-d43b-456a-803e-a561c2bc48db",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c10"
+    },
+    {
+      "_$id": "x652",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 250
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

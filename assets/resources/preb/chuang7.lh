@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "5p9sv3g1",
+  "_$type": "Image",
+  "name": "chuang7",
+  "x": 540,
+  "y": 225,
+  "width": 350,
+  "height": 350,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://4ffd7ca0-cbcb-4c30-a2b0-d9ee9cd10e3f",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c7"
+    },
+    {
+      "_$id": "hd0v",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 175
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

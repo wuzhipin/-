@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "x9ap3nj1",
+  "_$type": "Image",
+  "name": "shafa8",
+  "x": 540,
+  "y": 250,
+  "width": 400,
+  "height": 400,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://a3166214-1ea6-4801-8d2b-6c7f4f24f9f6",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c8"
+    },
+    {
+      "_$id": "wbse",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 200
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "_$ver": 1,
+  "_$id": "5cdh67nk",
+  "_$type": "Dialog",
+  "name": "zuihou",
+  "width": 700,
+  "height": 700,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "_mouseState": 2,
+  "isModal": true,
+  "_$child": [
+    {
+      "_$id": "oupsnhlq",
+      "_$type": "Image",
+      "name": "Image",
+      "x": 350,
+      "y": 350,
+      "width": 800,
+      "height": 800,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "centerX": 0,
+      "centerY": 0,
+      "skin": "res://5f008498-a7f9-4c90-91e1-ab54981f5645",
+      "color": "#ffffff",
+      "_$comp": [
+        {
+          "_$type": "0ab47309-6f7b-47ef-bb3b-5cad49b80313",
+          "scriptPath": "../src/zhuanquanjs.ts",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "_$id": "emxbua93",
+      "_$type": "Image",
+      "name": "Image(1)",
+      "x": 100,
+      "y": 100,
+      "width": 500,
+      "height": 500,
+      "centerX": 0,
+      "centerY": 0,
+      "skin": "res://dc2eabe2-7c39-4b60-86a7-dcd6b80639f8",
+      "color": "#ffffff"
+    }
+  ]
+}

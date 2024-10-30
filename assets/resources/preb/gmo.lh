@@ -1,0 +1,140 @@
+{
+  "_$ver": 1,
+  "_$id": "vn9z8jwk",
+  "_$type": "Dialog",
+  "name": "gmo",
+  "width": 1080,
+  "height": 1920,
+  "_mouseState": 2,
+  "left": 0,
+  "right": 0,
+  "top": 0,
+  "bottom": 0,
+  "_$comp": [
+    {
+      "_$type": "771feb44-a55d-4535-a0ad-a9c38cff92d7",
+      "scriptPath": "../src/tan_chuang.ts",
+      "okbtn": {
+        "_$ref": "qsnarsd3"
+      },
+      "fen": {
+        "_$ref": "146y4o0w"
+      }
+    }
+  ],
+  "_$child": [
+    {
+      "_$id": "srofrrgu",
+      "_$type": "Box",
+      "name": "tbk",
+      "width": 1080,
+      "height": 1920,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0,
+      "bgColor": "rgba(0, 0, 0, 0.5568627450980392)"
+    },
+    {
+      "_$id": "af2vue7v",
+      "_$type": "Box",
+      "name": "Box",
+      "x": 100,
+      "y": 660,
+      "width": 880,
+      "height": 600,
+      "_mouseState": 2,
+      "left": 100,
+      "right": 100,
+      "centerY": 0,
+      "_$child": [
+        {
+          "_$id": "pu4v23c0",
+          "_$type": "Image",
+          "name": "Image",
+          "width": 880,
+          "height": 600,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "bottom": 0,
+          "skin": "res://0ad426b5-1868-441e-a559-508bdf2667d2",
+          "sizeGrid": "63,35,26,39,0",
+          "color": "#ffffff"
+        },
+        {
+          "_$id": "m1g0q9zd",
+          "_$type": "Image",
+          "name": "Image(1)",
+          "x": 240,
+          "width": 400,
+          "height": 100,
+          "top": 0,
+          "centerX": 0,
+          "skin": "res://d360231a-2c57-45b1-996b-59fa8dbcd427",
+          "sizeGrid": "0,94,78,85,0",
+          "color": "#ffffff"
+        },
+        {
+          "_$id": "8v3jlaj8",
+          "_$type": "Label",
+          "name": "yxjs",
+          "x": 327,
+          "y": 20,
+          "width": 227,
+          "height": 56,
+          "top": 20,
+          "centerX": 0,
+          "text": "游戏结束",
+          "font": "HanziPenSC-W5",
+          "fontSize": 55,
+          "color": "#FFFFFF",
+          "fitContent": "yes",
+          "align": "center",
+          "valign": "middle",
+          "padding": "0,0,0,0"
+        },
+        {
+          "_$id": "qsnarsd3",
+          "_$type": "Button",
+          "name": "Button",
+          "x": 265,
+          "y": 400,
+          "width": 350,
+          "height": 100,
+          "_mouseState": 2,
+          "bottom": 100,
+          "centerX": 0,
+          "skin": "res://73a34610-0552-44f8-88be-d59eb3ec7ef2",
+          "label": "继续游戏",
+          "labelSize": 50,
+          "labelColors": "#ffffff,#deebeb,#d3e8cd",
+          "labelAlign": "center",
+          "labelVAlign": "middle",
+          "labelStroke": 5,
+          "labelStrokeColor": "#32556b",
+          "strokeColors": "#32556b,#32cc6b,#ff0000"
+        },
+        {
+          "_$id": "146y4o0w",
+          "_$type": "Label",
+          "name": "Label",
+          "x": 296,
+          "y": 199,
+          "width": 288,
+          "height": 103,
+          "centerX": 0,
+          "centerY": -50,
+          "text": "100分",
+          "font": "HanziPenSC-W5",
+          "fontSize": 102,
+          "color": "rgba(227, 177, 7, 1)",
+          "fitContent": "yes",
+          "bold": true,
+          "valign": "top",
+          "padding": "0,0,0,0"
+        }
+      ]
+    }
+  ]
+}

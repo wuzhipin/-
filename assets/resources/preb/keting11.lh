@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "jjb5tlds",
+  "_$type": "Image",
+  "name": "keting11",
+  "x": 540,
+  "y": 350,
+  "width": 550,
+  "height": 550,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://dc2eabe2-7c39-4b60-86a7-dcd6b80639f8",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c11"
+    },
+    {
+      "_$id": "qri4",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 275
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

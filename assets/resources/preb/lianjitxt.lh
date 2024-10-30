@@ -1,0 +1,22 @@
+{
+  "_$ver": 1,
+  "_$id": "qpuedonl",
+  "_$type": "FontClip",
+  "name": "lianjitxt",
+  "x": 414.5,
+  "y": 1014.6365,
+  "width": 280,
+  "height": 100,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "scaleX": 2,
+  "scaleY": 2,
+  "interval": 50,
+  "skin": "res://5253d664-77d3-48c0-95c5-0dcb2240f1e0",
+  "sizeGrid": "0,0,0,0,0",
+  "align": "center",
+  "sheet": "0123456789连击",
+  "value": "连击",
+  "spaceX": 0,
+  "spaceY": 0
+}

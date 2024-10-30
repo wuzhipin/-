@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "a5i7dq9o",
+  "_$type": "Image",
+  "name": "woshi9",
+  "x": 540,
+  "y": 275,
+  "width": 450,
+  "height": 450,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://02507352-9308-4195-82e8-e27aafc859b3",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c9"
+    },
+    {
+      "_$id": "msgn",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 225
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "y4xc5wyf",
+  "_$type": "Image",
+  "name": "diban3",
+  "x": 540,
+  "y": 175,
+  "width": 150,
+  "height": 150,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://821d236f-0740-40dd-a503-a916cb3ae1a3",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c3"
+    },
+    {
+      "_$id": "k14r",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 75
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

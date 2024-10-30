@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "jhoqntij",
+  "_$type": "Image",
+  "name": "dengju5",
+  "x": 540,
+  "y": 200,
+  "width": 250,
+  "height": 250,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://cf715351-48b2-4d15-a92c-4bd3dc06bc8b",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c5"
+    },
+    {
+      "_$id": "xw2l",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 125
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

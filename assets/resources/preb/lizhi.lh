@@ -1,0 +1,24 @@
+{
+  "_$ver": 1,
+  "_$id": "z9m4dauh",
+  "_$type": "Sprite",
+  "name": "lizhi",
+  "x": 514,
+  "y": 934,
+  "width": 300,
+  "height": 300,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "texture": {
+    "_$uuid": "d7e91834-5409-408a-9ecb-5a68b32195a8",
+    "_$type": "Texture"
+  },
+  "_gcmds": [],
+  "_$comp": [
+    {
+      "_$type": "b3105904-a202-4adf-a457-f99bda56346e",
+      "scriptPath": "../src/lizhijs.ts",
+      "text": ""
+    }
+  ]
+}

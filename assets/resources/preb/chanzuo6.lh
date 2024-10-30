@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "8x7ederj",
+  "_$type": "Image",
+  "name": "chanzuo6",
+  "x": 540,
+  "y": 110,
+  "width": 300,
+  "height": 300,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://07a7e446-3bb7-4c34-85c8-b27c149dc069",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c6"
+    },
+    {
+      "_$id": "npr9",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 150
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}

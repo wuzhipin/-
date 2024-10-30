@@ -1,0 +1,31 @@
+{
+  "name": "合成年夜饭2025",
+  "displayName": "合成年夜饭2025",
+  "minifyJS": true,
+  "startupScene": "res://9ce5981c-5590-43a5-8e39-6c949bcd5a2b",
+  "includedScenes": [
+    "res://9b931ecf-fde9-44dd-acf3-15f8dc807965"
+  ],
+  "alwaysIncluded": [
+    "resources"
+  ],
+  "enableSubpackages": true,
+  "subpackages": [
+    {
+      "path": "resources",
+      "autoLoad": true
+    }
+  ],
+  "android": {
+    "targetArchitectures": {
+      "ARMv7": true,
+      "ARM64": false,
+      "x86": false,
+      "x86-64": false
+    },
+    "exportFormat": "APK"
+  },
+  "wxgame": {
+    "appid": "wx1841295726a299a1"
+  }
+}

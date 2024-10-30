@@ -1,0 +1,16 @@
+{
+  "resolution": {
+    "designWidth": 1080,
+    "designHeight": 1920,
+    "scaleMode": "fixedauto",
+    "screenMode": "vertical"
+  },
+  "modules": {
+    "laya.d3": true,
+    "laya.ui": true,
+    "laya.physics2D": true
+  },
+  "splash": {
+    "fit": "center"
+  }
+}

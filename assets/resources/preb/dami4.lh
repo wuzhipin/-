@@ -1,0 +1,33 @@
+{
+  "_$ver": 1,
+  "_$id": "dtfl9a25",
+  "_$type": "Image",
+  "name": "dami4",
+  "x": 540,
+  "y": 185,
+  "width": 200,
+  "height": 200,
+  "anchorX": 0.5,
+  "anchorY": 0.5,
+  "skin": "res://3185947f-c9c5-4341-b608-29b4631dd5ab",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": 0,
+      "allowSleep": false,
+      "label": "c4"
+    },
+    {
+      "_$id": "fb26",
+      "_$type": "CircleCollider",
+      "friction": 0.05,
+      "restitution": 0.1,
+      "radius": 100
+    },
+    {
+      "_$type": "34566570-28f4-4448-b914-7d245c6b6653",
+      "scriptPath": "../src/CaiPre.ts"
+    }
+  ]
+}
